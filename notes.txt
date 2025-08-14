@@ -1,0 +1,44 @@
+Tuesday August 5th 2025 - 2025-08-05 17:01:36
+---------------------------------------------
+The course I'm doing right now is quite slow going:
+"Learn to program in Go from an award winning university professor"
+
+But I'm going to focus hard and finish it.
+control l clears the screen in vscode.
+
+
+Tuesday July 29th 2025 - 2025-07-29 06:27:21
+---------------------------------------------
+go mod init
+will create a file in the directory called go.mod
+
+if you now use
+go build
+it will build an executable file.
+
+Monday July 28th 2025 - 2025-07-28 14:15:14
+---------------------------------------------
+git@github.com:mschwarzmueller/go-complete-guide-resources.git
+ ~/Learning/GO ❯ cd sandbox
+ Learning/GO/sandbox ❯ go run app.go
+Hello, World!%
+ Learning/GO/sandbox ❯ go mod init
+go: cannot determine module path for source directory /home/parsonscr/Learning/GO/sandbox (outside GOPATH, module path must be specified)
+
+Example usage:
+        'go mod init example.com/m' to initialize a v0 or v1 module
+        'go mod init example.com/m/v2' to initialize a v2 module
+
+Run 'go help mod init' for more information.
+
+Before Monday July 28th 2025 - 2025-07-28 14:15:11
+---------------------------------------------------
+You are not sure which direction you want to go in.
+
+https://www.udemy.com/course/go-the-complete-guide/learn/lecture/40776808#overview
+
+
+This is built in godot
+https://youtu.be/JnuLDNeCuFw?si=zYZ_mHlb2ivIdY_m
+
+Then there is Ebitengine which is written in Go

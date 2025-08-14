@@ -1,0 +1,4 @@
+Monday July 14th 2025 - 2025-07-14 16:23:37
+---------------------------------------------
+I'm following this video to install golang
+https://www.youtube.com/watch?v=_Z1u0bDLeN4
