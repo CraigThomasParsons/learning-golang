@@ -1,3 +1,12 @@
+Tuesday August 19th 2025 - 2025-08-19 15:30:18
+---------------------------------------------
+In my last lesson I learned
+- The User structure in TypesAndStructs indexes are capitalized because
+  Go is not an object oriented language
+
+This helps use these things in another package easily
+Capitized variables are public and available in other packages.
+
 Tuesday August 5th 2025 - 2025-08-05 17:01:36
 ---------------------------------------------
 The course I'm doing right now is quite slow going:
