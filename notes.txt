@@ -1,3 +1,12 @@
+Wednesday September 17th 2025 - 2025-09-17 17:02:55
+---------------------------------------------
+I just descovered a course that is basically
+turn laravel into a Go Framework.
+
+I really want to do this.
+it cost me 23.72
+
+
 Tuesday August 19th 2025 - 2025-08-19 15:30:18
 ---------------------------------------------
 In my last lesson I learned
@@ -14,7 +23,6 @@ The course I'm doing right now is quite slow going:
 
 But I'm going to focus hard and finish it.
 control l clears the screen in vscode.
-
 
 Tuesday July 29th 2025 - 2025-07-29 06:27:21
 ---------------------------------------------

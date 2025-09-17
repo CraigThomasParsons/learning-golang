@@ -1,0 +1,17 @@
+Build a reusable Go module and command line application that makes building a web application simple, fast and secure.
+
+https://www.udemy.com/course/lets-build-a-go-version-of-laravel/learn/lecture/28272866
+
+Laravel
+Laravel is the most popular framework for php.
+Easy database access.
+A lot of functionality right out of the box.
+Easy to install.
+
+Downsides
+Relatively slow, because it is written in PHP.
+  - Also, sometimes the dependencies don't stay up to date.
+Vast number of bad resources online.
+  - These resources sometimes are just bad.
+Horizontally scalable, but requires a lot of resources.
+Individual installations requires a lot of system resources.
