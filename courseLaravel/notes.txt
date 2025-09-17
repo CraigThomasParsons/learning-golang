@@ -15,3 +15,39 @@ Vast number of bad resources online.
   - These resources sometimes are just bad.
 Horizontally scalable, but requires a lot of resources.
 Individual installations requires a lot of system resources.
+
+Celeritas:
+Latin for "Speed"
+
+We will build a command line application
+
+With one command, we'll have a Go project that includes the following:
+
+Features:
+Easy access to multiple databases (we'll include Postgres and MySQL,
+  but have support for Mongo, CocroachDB, and SQLite)
+Complete user authetication (for web and api) with one command
+
+Database migrations
+
+Multiple HTML templating engines (Go teplates and Jet)
+
+Sessions support
+
+Generate handlers (like Laravel's controllers) and models with one.
+
+Support for easy to write middleware
+
+Form validation
+
+CRSF protection
+
+Encryption
+
+Response utilities (XML, JSON, download a file)
+
+Support for multiple caching back ends (Redis and BadgerDb)
+
+Sending email via SMTP, SendGrid, MailGun, and Sparkpost
+
+Remember me and password resets for user authetication.
